@@ -4,11 +4,11 @@
 This project builds an end-to-end logistic regression model to predict customer churn for a telecommunications company using the Telco Customer Churn dataset. The workflow includes exploratory data analysis, missing-value cleanup, feature engineering, preprocessing with a scikit-learn pipeline, hyperparameter tuning with GridSearchCV, model evaluation, coefficient interpretation, and a deployment simulation using a saved model.
 
 ## How to Run the Code
-1. Open `Andy_IN503_Unit10_Assignment.ipynb` in Google Colab.
+1. Open `Welsh_IN503_Unit10_Assignment.ipynb` in Google Colab.
 2. Run the notebook cells from top to bottom.
 3. The notebook installs `kagglehub` and downloads the public Telco Customer Churn dataset automatically.
 4. GridSearchCV trains and tunes the logistic regression model.
-5. The final pipeline is saved as `customer_churn_model.pkl`.
+5. The final pipeline is saved as `welsh_customer_churn_model.pkl`.
 6. The final cells load the saved model and demonstrate churn predictions for three example customers.
 
 ## Key Findings Summary
